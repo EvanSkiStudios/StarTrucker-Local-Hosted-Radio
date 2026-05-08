@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/StarTruckerPythonRadio/.idea
+*.mp3
+StarTruckerPythonRadio/playlist.txt
