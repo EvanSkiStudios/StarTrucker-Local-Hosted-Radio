@@ -2,5 +2,7 @@
 /shelf/
 /workspace.xml
 /StarTruckerPythonRadio/.idea
-*.mp3
 StarTruckerPythonRadio/playlist.txt
+/StarTruckerPythonRadio/commercials
+/StarTruckerPythonRadio/misc
+/StarTruckerPythonRadio/tracks
